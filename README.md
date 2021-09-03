@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AngelaJovin currently at university of Dar es salaam(BSc in Computer Science)
-- 👀 I’m interested in Software development,networking and content development
+- 👀 I’m interested in Software development and content development
 - 🌱 I’m currently learning dart-flutter and content development
 - 💞️ I’m looking to collaborate on front-end software development and content development. 
 - 📫 How to reach me angelamwemezi@gmail.com and fineangie@outlook.com
