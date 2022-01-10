@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngelaJovin currently at university of Dar es salaam(BSc in Computer Science)
-- 👀 I’m interested in web development and content development
-- 🌱 I’m currently learning SEO and laravel
-- 💞️ I’m looking to collaborate on front-end web development and content development. 
+- 👀 I’m interested in web design/development and branding
+- 🌱 I’m currently learning SEO and php
+- 💞️ I’m looking to collaborate on front-end web development and business branding. 
 - 📫 How to reach me angelamwemezi@gmail.com and fineangie@outlook.com
 
 <!---
