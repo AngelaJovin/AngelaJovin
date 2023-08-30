@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AngelaJovin
-- 👀 I’m interested in Web Brand, UI/UX Designing and Data Analytics
+- 👀 I’m interested in Web, Brand, UI/UX Designing and Data Analytics
 - 🌱 I’m currently learning Python
 - 📫 How to reach me angelamwemezi@gmail.com and angiejovin@gmail.com
 
