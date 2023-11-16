@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngelaJovin
-- 👀 I’m interested in Web, Brand, UI/UX Designing and Data Analytics
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python
-- 📫 How to reach me angelamwemezi@gmail.com and angiejovin@gmail.com
+- 📫 How to reach me angiejovin@gmail.com
 
 <!---
 AngelaJovin/AngelaJovin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
