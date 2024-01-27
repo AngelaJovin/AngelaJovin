@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AngelaJovin
+- 👋 Hi, I’m Angela
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me angiejovin@gmail.com
